@@ -39,8 +39,3 @@ Autonomous micromobility researcher advancing safety validation through simulati
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=ll7&theme=default&hide_border=true" alt="GitHub Streak for ll7" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ll7&layout=compact&langs_count=8&hide_border=true" alt="Top Languages for ll7" />
-</p>
-
