@@ -20,7 +20,7 @@ Autonomous micromobility researcher advancing safety validation through simulati
 ## 🔬 Featured projects
 
 - [ll7/robot_sf_ll7](https://github.com/ll7/robot_sf_ll7)  
-  ROS/CARLA-backed experiments for robot–pedestrian interaction using social-force models, focused on micromobility contexts. Includes reproducible scenarios, metrics, and baselines for evaluating safety and behavior fidelity.
+  Experiments for robot–pedestrian interaction using social-force models, focused on micromobility contexts. Includes reproducible scenarios, metrics, and baselines for evaluating safety and behavior fidelity.
 
 - [una-auxme/paf](https://github.com/una-auxme/paf)  
   A modular Perception–Action Framework for autonomous vehicle research and teaching. Provides agents, simulation, and evaluation pipelines to enable safety validation and RL training at scale.
